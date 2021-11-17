@@ -1,0 +1,14 @@
+p {
+	background-color: white;
+	color: black;
+}
+#imagem2 {
+       ;   
+       width: 900px;
+       height: 500px;
+}
+nav > a:hover {  
+              text-decoration: underline;
+              font-size: 190px;
+
+ }

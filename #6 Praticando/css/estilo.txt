@@ -1,0 +1,17 @@
+p {
+	background-color: pink;
+	color: white;
+}
+#imagem {
+       width: 900px;
+       height: 350px;
+}
+
+.button {
+       background-color: #007bff;
+       color: white;
+       font-size: irem;
+       padding: .375rem .75rem; 
+       border: 1px solid transparent;
+       border-radius: .25rem;
+}

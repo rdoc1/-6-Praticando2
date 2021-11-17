@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+
+           <head>
+                 <meta charset="utf-8">
+                 <meta http-equiv="X-UA-Compatible" content="IE=edge">
+                 <meta name="viewport" content="width=device-width, initial-scale=1">
+                 <link rel="stylesheet" href="estilo.css">
+                 </style>
+                 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+
+           </head>
+           
+           <body style="Background-color: lightpink; font-family: Helvetica;">
+                 <div> 
+                       <button>Leia mais sobre</button> 
+                 </div>
+                 <b>
+                       Clubes-empresa avançam no Brasil
+                    
+                 </b>
+                 <p>
+                       Depois de muito tempo, o modelo de clube-empresa foi aprovada
+                       no país e, com isso, já se observa movimentações quanto a entrada 
+                       de investidores nesse ramo. Assim como já ocorre nos países desenvolvidos, 
+                       (em especial os da Europa e os do EUA) grandes empresários, muitas vezes bilionários,
+                       investe quantias significativas em seus clubes, de modo a obter resultados espressivos 
+                       dentro das quatro linhas, além, também, de conquistar resultados financeiros satisfatórios.
+                       Afinal, ningúem quer que sua empresa dê prejuízo.
+                  </p>
+                 <b>
+                       Alguns clubes brasileiros já se prepraram para a transição       
+                 </b>   
+                 <p>
+                       Antes mesmo da aprovação do clube-empresa, alguns clubes já 
+                       se preparavam para a transição, contratando, por exemplo, 
+                       empresas e pessoas para buscar investidores nacionais e,
+                       principalmente, estrangeiros. Um exemplo disso é o Cruzeiro.
+                 </p>
+                 <img src="https://i2.wp.com/pressfut.com/wp-content/uploads/2021/01/Bragantino-muda-nome-oficialmente-para-Red-Bull-Bragantino-696x416-1.png?resize=640%2C383&ssl=1" />
+                 <p>
+                       O Bragantino foi a primeira equipe brasileira a receber esse tipo de 
+                       investimento, passando a se chamar Red Bull Bragantino.
+                 </p>
+                 <a href="index2.html" target="_top">Veja a lista de alguns clubes-empresa ao redor do mundo</a>
+                 <p>
+                      <a href="https://ge.globo.com/blogs/blog-do-rodrigo-capelo/post/2019/09/30/entenda-como-funcionam-os-clubes-empresas-em-alemanha-italia-inglaterra-e-portugal.ghtml" target="_top">Entenda como funciona os clubes-empresas</a>
+                 </p>
+                 
+           </body>
+</html>
